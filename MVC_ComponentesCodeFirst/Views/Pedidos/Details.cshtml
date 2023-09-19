@@ -1,0 +1,43 @@
+﻿@inject MVC_ComponentesCodeFirst.Services.FormattingService Format
+@model MVC_ComponentesCodeFirst.Models.Pedidos.PedidoDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Pedido</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-md-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class = "col-md-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-md-2">
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+        <dd class = "col-md-10">
+            @Format.AsReadableDate(Model.Fecha)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Coste)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Coste) €
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Ordenadores)
+        </dt>
+        <dd class="col-md-10">
+            @await Component.InvokeAsync("ListadoOrdenadores", new { ordenadores = Model.Ordenadores })
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,40 @@
+2023-08-08 12:56:06.9121 INFO Se va a crear un componente
+2023-08-08 12:56:06.9443 INFO Se va a mostrar la lista de componentes
+2023-08-08 12:56:06.9738 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 12:56:06.9738 INFO Se va a eliminar el componente con id = 2
+2023-08-08 12:56:06.9738 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 12:56:06.9886 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 12:56:06.9886 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 12:56:06.9886 INFO Se va a editar el componente con id = 1
+2023-08-08 12:56:07.0051 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 12:56:07.0051 INFO Se va a mostrar la lista de componentes
+2023-08-08 12:56:07.0051 INFO Se va a crear un componente
+2023-08-08 12:56:07.0051 INFO Se va a mostrar la lista de componentes
+2023-08-08 12:56:07.0206 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 12:56:07.0206 INFO Se va a eliminar el componente con id = 2
+2023-08-08 12:56:07.0206 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 12:56:07.0206 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 12:56:07.0206 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 12:56:07.0206 INFO Se va a editar el componente con id = 1
+2023-08-08 12:56:07.0206 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 12:56:07.0550 INFO Se va a mostrar la lista de componentes
+2023-08-08 14:51:34.8482 INFO Se va a crear un componente
+2023-08-08 14:51:34.8692 INFO Se va a mostrar la lista de componentes
+2023-08-08 14:51:34.8883 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 14:51:34.8883 INFO Se va a eliminar el componente con id = 2
+2023-08-08 14:51:34.8883 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 14:51:34.8883 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 14:51:34.8953 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 14:51:34.8953 INFO Se va a editar el componente con id = 1
+2023-08-08 14:51:34.8953 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 14:51:34.8953 INFO Se va a mostrar la lista de componentes
+2023-08-08 14:51:34.8953 INFO Se va a crear un componente
+2023-08-08 14:51:34.8953 INFO Se va a mostrar la lista de componentes
+2023-08-08 14:51:34.8953 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 14:51:34.9113 INFO Se va a eliminar el componente con id = 2
+2023-08-08 14:51:34.9113 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-08 14:51:34.9113 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 14:51:34.9113 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 14:51:34.9113 INFO Se va a editar el componente con id = 1
+2023-08-08 14:51:34.9113 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-08 14:51:34.9458 INFO Se va a mostrar la lista de componentes

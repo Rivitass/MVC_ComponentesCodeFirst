@@ -1,0 +1,9 @@
+﻿.rodrigo-nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.nav-item a:hover{
+    background-color: orangered;
+    color: white !important;
+}

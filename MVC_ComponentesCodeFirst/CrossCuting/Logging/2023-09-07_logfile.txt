@@ -1,0 +1,17 @@
+2023-09-07 14:08:52.1009 INFO Se va a mostrar la lista de componentes
+2023-09-07 14:08:52.1453 INFO Devolviendo la lista de componentes
+2023-09-07 14:09:02.7740 INFO Se va a mostrar la lista de ordenadores
+2023-09-07 14:09:02.7740 INFO Devolviendo la lista de ordenadores
+2023-09-07 14:09:04.9850 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-09-07 14:09:04.9850 INFO Devolviendo el ordenador con id = 3
+2023-09-07 14:09:09.0035 INFO Se va a mostrar la lista de pedidos
+2023-09-07 14:09:09.0057 INFO Devolviendo la lista de pedidos
+2023-09-07 14:09:10.3084 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-09-07 14:09:10.3084 INFO Devolviendo el pedido con id = 1
+2023-09-07 14:09:15.8320 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-09-07 14:09:15.8326 INFO Devolviendo el ordenador con id = 3
+2023-09-07 14:09:23.3458 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-09-07 14:09:23.3458 INFO Devolviendo el componente con id = 1
+2023-09-07 14:09:23.3811 INFO Devolviendo la lista de ordenadores
+2023-09-07 14:09:25.0483 INFO Se va a mostrar la lista de componentes
+2023-09-07 14:09:25.0483 INFO Devolviendo la lista de componentes

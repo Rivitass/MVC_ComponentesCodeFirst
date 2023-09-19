@@ -1,0 +1,239 @@
+2023-08-10 11:13:29.0053 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:13:29.0364 INFO Devolviendo la lista de componentes
+2023-08-10 11:14:46.9950 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:14:47.0201 INFO Devolviendo la lista de componentes
+2023-08-10 11:23:40.7284 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:23:40.7558 INFO Devolviendo la lista de componentes
+2023-08-10 11:24:33.3637 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:24:33.3982 INFO Devolviendo la lista de componentes
+2023-08-10 11:29:08.7088 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:29:08.7392 INFO Devolviendo la lista de componentes
+2023-08-10 11:30:30.3469 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:30:30.3642 INFO Devolviendo la lista de componentes
+2023-08-10 11:32:15.4576 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:32:15.4748 INFO Devolviendo la lista de componentes
+2023-08-10 11:35:04.5072 INFO Se va a mostrar la lista de componentes
+2023-08-10 11:35:04.5385 INFO Devolviendo la lista de componentes
+2023-08-10 11:35:11.0349 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 11:35:11.0349 INFO Devolviendo la lista de ordenadores
+2023-08-10 11:35:12.5217 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 11:35:14.6651 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 11:35:14.6651 INFO Devolviendo la lista de ordenadores
+2023-08-10 12:51:32.3825 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 12:51:32.4108 INFO Devolviendo la lista de ordenadores
+2023-08-10 12:51:34.4131 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 12:51:34.4131 INFO Devolviendo la lista de componentes
+2023-08-10 12:54:31.2780 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 12:54:31.3025 INFO Devolviendo la lista de ordenadores
+2023-08-10 12:54:33.2793 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 12:54:33.2793 INFO Devolviendo la lista de componentes
+2023-08-10 13:00:53.5230 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:00:53.5554 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:00:55.4645 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:00:55.4645 INFO Devolviendo la lista de componentes
+2023-08-10 13:05:12.7540 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:05:12.7709 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:05:15.2007 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:05:15.2007 INFO Devolviendo la lista de componentes
+2023-08-10 13:06:17.1363 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:06:17.1600 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:06:19.3889 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:06:19.3889 INFO Devolviendo la lista de componentes
+2023-08-10 13:12:04.0414 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:12:04.0691 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:12:06.3406 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:12:06.3406 INFO Devolviendo la lista de componentes
+2023-08-10 13:13:14.7395 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:13:14.7705 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:13:16.6270 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:13:16.6270 INFO Devolviendo la lista de componentes
+2023-08-10 13:15:28.8189 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:15:28.8477 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:15:31.1467 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:15:31.1467 INFO Devolviendo la lista de componentes
+2023-08-10 13:33:41.2753 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:33:41.3214 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:33:43.3961 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:33:43.3961 INFO Devolviendo la lista de componentes
+2023-08-10 13:38:36.6629 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:38:36.6947 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:38:38.6299 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:38:38.6299 INFO Devolviendo la lista de componentes
+2023-08-10 13:39:16.6913 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:39:16.7096 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:39:19.9241 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:39:19.9251 INFO Devolviendo la lista de componentes
+2023-08-10 13:44:10.8165 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:44:10.8503 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:44:13.0077 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:44:13.0077 INFO Devolviendo la lista de componentes
+2023-08-10 13:44:43.8581 INFO Se va a crear un ordenador
+2023-08-10 13:44:43.8581 INFO Ordenador con id = 0 añadido
+2023-08-10 13:44:44.0584 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:44:44.0584 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:47:24.3501 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:47:24.3824 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:47:29.2589 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:47:29.2589 INFO Devolviendo la lista de componentes
+2023-08-10 13:48:02.5300 INFO Se va a crear un ordenador
+2023-08-10 13:48:02.5300 INFO Ordenador con id = 0 añadido
+2023-08-10 13:48:02.6929 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:48:02.6929 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:48:32.0685 INFO Se va a mostrar la vista para eliminar el ordenador con id = 1
+2023-08-10 13:48:32.0685 INFO Devolviendo el ordenador con id = 1
+2023-08-10 13:48:33.0571 INFO Se va a eliminar el ordenador con id = 1
+2023-08-10 13:48:33.0571 INFO Ordenador con id = 1 eliminado
+2023-08-10 13:48:33.0571 INFO Devolviendo el ordenador con id = 1
+2023-08-10 13:48:33.0953 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:48:33.0953 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:48:33.9331 INFO Se va a mostrar la vista para eliminar el ordenador con id = 2
+2023-08-10 13:48:33.9331 INFO Devolviendo el ordenador con id = 2
+2023-08-10 13:48:34.7257 INFO Se va a eliminar el ordenador con id = 2
+2023-08-10 13:48:34.7257 INFO Ordenador con id = 2 eliminado
+2023-08-10 13:48:34.7257 INFO Devolviendo el ordenador con id = 2
+2023-08-10 13:48:34.7399 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:48:34.7399 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:49:20.2842 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:49:20.3045 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:49:22.3742 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:49:22.3742 INFO Devolviendo la lista de componentes
+2023-08-10 13:49:36.0947 INFO Se va a crear un ordenador
+2023-08-10 13:50:08.6352 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 13:50:08.6617 INFO Devolviendo la lista de ordenadores
+2023-08-10 13:50:10.4824 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 13:50:10.4824 INFO Devolviendo la lista de componentes
+2023-08-10 13:50:16.6603 INFO Se va a crear un ordenador
+2023-08-10 14:00:44.4261 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:00:44.4436 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:00:46.3576 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:00:46.3576 INFO Devolviendo la lista de componentes
+2023-08-10 14:00:56.4915 INFO Se va a crear un ordenador
+2023-08-10 14:01:44.6938 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:01:44.7115 INFO Devolviendo la lista de componentes
+2023-08-10 14:01:46.5807 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:01:46.5822 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:01:47.6820 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:01:47.6820 INFO Devolviendo la lista de componentes
+2023-08-10 14:02:28.0496 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:02:28.0829 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:02:30.0879 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:02:30.0879 INFO Devolviendo la lista de componentes
+2023-08-10 14:02:44.9417 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:02:44.9723 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:02:47.1237 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:02:47.1237 INFO Devolviendo la lista de componentes
+2023-08-10 14:05:11.8648 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:05:11.8952 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:05:14.0934 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:05:14.0934 INFO Devolviendo la lista de componentes
+2023-08-10 14:06:34.8524 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:06:34.8788 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:06:36.8834 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:06:36.8834 INFO Devolviendo la lista de componentes
+2023-08-10 14:08:46.5030 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:08:46.5358 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:08:47.9717 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:08:47.9731 INFO Devolviendo la lista de componentes
+2023-08-10 14:08:50.9158 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:08:50.9158 INFO Devolviendo el componente con id = 1
+2023-08-10 14:09:36.6795 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:09:36.7091 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:09:41.4221 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:09:41.4221 INFO Devolviendo la lista de componentes
+2023-08-10 14:09:45.4912 INFO Se va a crear un ordenador
+2023-08-10 14:10:32.3779 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:10:32.3954 INFO Devolviendo la lista de componentes
+2023-08-10 14:10:35.4946 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:10:35.4946 INFO Devolviendo el componente con id = 1
+2023-08-10 14:10:39.6362 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:10:39.6362 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:10:41.2168 INFO Se va a mostrar la vista para crear un ordenador
+2023-08-10 14:10:41.2168 INFO Devolviendo la lista de componentes
+2023-08-10 14:10:46.6891 INFO Se va a crear un ordenador
+2023-08-10 14:10:46.6891 INFO Ordenador con id = 0 añadido
+2023-08-10 14:10:46.8499 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:10:46.8499 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:10:49.2371 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:10:49.2378 INFO Devolviendo la lista de componentes
+2023-08-10 14:10:51.1970 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:10:51.1970 INFO Devolviendo el componente con id = 1
+2023-08-10 14:11:04.1807 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:11:04.1807 INFO Devolviendo la lista de componentes
+2023-08-10 14:23:00.8965 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:23:00.9271 INFO Devolviendo la lista de componentes
+2023-08-10 14:23:04.1121 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:23:04.1135 INFO Devolviendo el componente con id = 1
+2023-08-10 14:23:04.2588 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:27:24.6941 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:27:24.7257 INFO Devolviendo la lista de componentes
+2023-08-10 14:27:27.5045 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:27:27.5045 INFO Devolviendo el componente con id = 1
+2023-08-10 14:27:27.6376 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:31:44.3635 INFO Se va a mostrar la lista de ordenadores
+2023-08-10 14:31:44.3942 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:31:47.0692 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:31:47.0692 INFO Devolviendo la lista de componentes
+2023-08-10 14:31:49.7221 INFO Se va a mostrar la vista para editar el componente con id = 2
+2023-08-10 14:31:49.7230 INFO Devolviendo el componente con id = 2
+2023-08-10 14:31:49.8258 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:40:27.5364 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:40:27.5532 INFO Devolviendo la lista de componentes
+2023-08-10 14:40:31.1394 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:40:31.1394 INFO Devolviendo el componente con id = 1
+2023-08-10 14:41:03.7284 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:41:03.7532 INFO Devolviendo la lista de componentes
+2023-08-10 14:41:06.4546 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:41:06.4566 INFO Devolviendo el componente con id = 1
+2023-08-10 14:41:06.6391 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:41:27.1682 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:41:27.1682 INFO Devolviendo la lista de componentes
+2023-08-10 14:41:28.9178 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-10 14:41:28.9178 INFO Devolviendo el componente con id = 1
+2023-08-10 14:41:28.9263 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:42:33.5545 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:42:33.5824 INFO Devolviendo la lista de componentes
+2023-08-10 14:42:38.3448 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-10 14:42:51.6834 INFO Devolviendo el componente con id = 2
+2023-08-10 14:43:27.9456 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:45:49.6129 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:45:49.6520 INFO Devolviendo la lista de componentes
+2023-08-10 14:45:52.5355 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-10 14:45:57.1221 INFO Devolviendo el componente con id = 1
+2023-08-10 14:46:33.5040 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:46:33.5211 INFO Devolviendo la lista de componentes
+2023-08-10 14:46:46.9876 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-10 14:46:53.2559 INFO Devolviendo el componente con id = 2
+2023-08-10 14:50:25.3784 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:50:25.4148 INFO Devolviendo la lista de componentes
+2023-08-10 14:50:28.0595 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-10 14:50:32.6781 INFO Devolviendo el componente con id = 1
+2023-08-10 14:52:40.2301 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:52:40.2545 INFO Devolviendo la lista de componentes
+2023-08-10 14:52:45.3389 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:52:45.3389 INFO Devolviendo el componente con id = 1
+2023-08-10 14:52:45.5201 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:52:51.7342 INFO Se va a editar el componente con id = 1
+2023-08-10 14:52:57.0540 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:52:57.0540 INFO Devolviendo la lista de componentes
+2023-08-10 14:53:13.8367 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-10 14:53:13.8367 INFO Devolviendo el componente con id = 1
+2023-08-10 14:53:13.8367 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:53:20.0977 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:53:20.0977 INFO Devolviendo el componente con id = 1
+2023-08-10 14:53:20.0977 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:53:20.0977 INFO Devolviendo el componente con id = 1
+2023-08-10 14:53:20.1379 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:53:20.1379 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:53:50.6467 INFO Se va a editar el componente con id = 1
+2023-08-10 14:54:45.1759 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:54:45.2100 INFO Devolviendo la lista de componentes
+2023-08-10 14:54:47.7545 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:54:47.7545 INFO Devolviendo el componente con id = 1
+2023-08-10 14:54:47.9570 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:55:19.7572 INFO Se va a editar el componente con id = 1
+2023-08-10 14:55:37.4111 INFO Se va a mostrar la lista de componentes
+2023-08-10 14:55:37.4422 INFO Devolviendo la lista de componentes
+2023-08-10 14:55:58.7555 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-10 14:55:58.7555 INFO Devolviendo el componente con id = 1
+2023-08-10 14:55:58.9404 INFO Devolviendo la lista de ordenadores
+2023-08-10 14:56:06.1609 INFO Se va a editar el componente con id = 1

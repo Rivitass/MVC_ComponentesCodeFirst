@@ -1,0 +1,64 @@
+2023-09-18 11:49:33.4769 INFO Se va a mostrar la lista de componentes
+2023-09-18 11:49:33.5296 INFO Devolviendo la lista de componentes
+2023-09-18 11:50:32.6689 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 11:50:32.6982 INFO Devolviendo la lista de ordenadores
+2023-09-18 11:54:22.9105 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 11:54:22.9105 INFO Devolviendo la lista de ordenadores
+2023-09-18 11:54:26.9169 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 11:54:26.9169 INFO Devolviendo la lista de ordenadores
+2023-09-18 12:00:43.9954 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 12:00:44.0352 INFO Devolviendo la lista de ordenadores
+2023-09-18 12:09:42.9926 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 12:09:43.0109 INFO Devolviendo la lista de ordenadores
+2023-09-18 12:09:47.9444 INFO Se va a mostrar la lista de componentes
+2023-09-18 12:09:47.9444 INFO Devolviendo la lista de componentes
+2023-09-18 12:16:48.2511 INFO Se va a mostrar la lista de componentes
+2023-09-18 12:16:48.2637 INFO Devolviendo la lista de componentes
+2023-09-18 12:16:55.2272 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 12:16:55.2272 INFO Devolviendo la lista de ordenadores
+2023-09-18 12:16:56.7466 INFO Se va a mostrar la lista de pedidos
+2023-09-18 12:16:56.7466 INFO Devolviendo la lista de pedidos
+2023-09-18 12:16:57.8556 INFO Se va a mostrar la lista de componentes
+2023-09-18 12:16:57.8556 INFO Devolviendo la lista de componentes
+2023-09-18 12:19:43.1584 INFO Se va a mostrar la lista de componentes
+2023-09-18 12:19:43.1812 INFO Devolviendo la lista de componentes
+2023-09-18 12:22:57.2988 INFO Se va a mostrar la lista de componentes
+2023-09-18 12:22:57.3107 INFO Devolviendo la lista de componentes
+2023-09-18 12:24:03.7090 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 12:24:03.7090 INFO Devolviendo la lista de ordenadores
+2023-09-18 12:24:04.9225 INFO Se va a mostrar la vista para crear un ordenador
+2023-09-18 12:24:04.9225 INFO Devolviendo la lista de pedidos
+2023-09-18 12:24:11.9616 INFO Se va a crear un ordenador
+2023-09-18 12:24:11.9616 INFO Ordenador con id = 0 añadido
+2023-09-18 12:24:12.1966 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 12:24:12.1966 INFO Devolviendo la lista de ordenadores
+2023-09-18 13:20:57.4694 INFO Se va a mostrar la lista de componentes
+2023-09-18 13:20:57.4862 INFO Devolviendo la lista de componentes
+2023-09-18 13:38:57.5365 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 13:38:57.5874 INFO Devolviendo la lista de ordenadores
+2023-09-18 13:40:02.2663 INFO Se va a mostrar la lista de componentes
+2023-09-18 13:40:02.2663 INFO Devolviendo la lista de componentes
+2023-09-18 13:40:08.0901 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 13:40:08.0901 INFO Devolviendo la lista de ordenadores
+2023-09-18 14:12:29.4867 INFO Se va a mostrar la lista de pedidos
+2023-09-18 14:12:29.5418 INFO Devolviendo la lista de pedidos
+2023-09-18 14:12:40.1480 INFO Se va a crear un pedido
+2023-09-18 14:12:40.1480 INFO Pedido con id = 0 añadido
+2023-09-18 14:12:40.3135 INFO Se va a mostrar la lista de pedidos
+2023-09-18 14:12:40.3135 INFO Devolviendo la lista de pedidos
+2023-09-18 14:12:53.7887 INFO Se va a mostrar la lista de pedidos
+2023-09-18 14:12:53.7887 INFO Devolviendo la lista de pedidos
+2023-09-18 14:13:13.5827 INFO Se va a crear un pedido
+2023-09-18 14:13:13.5827 INFO Pedido con id = 0 añadido
+2023-09-18 14:13:13.6807 INFO Se va a mostrar la lista de pedidos
+2023-09-18 14:13:13.6807 INFO Devolviendo la lista de pedidos
+2023-09-18 14:13:39.1230 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 14:13:39.1244 INFO Devolviendo la lista de ordenadores
+2023-09-18 14:13:41.6803 INFO Se va a mostrar la vista para crear un ordenador
+2023-09-18 14:13:41.6803 INFO Devolviendo la lista de pedidos
+2023-09-18 14:13:51.9920 INFO Se va a crear un ordenador
+2023-09-18 14:13:51.9920 INFO Ordenador con id = 0 añadido
+2023-09-18 14:13:52.1672 INFO Se va a mostrar la lista de ordenadores
+2023-09-18 14:13:52.1672 INFO Devolviendo la lista de ordenadores
+2023-09-18 14:14:00.3720 INFO Se va a mostrar la lista de componentes
+2023-09-18 14:14:00.3720 INFO Devolviendo la lista de componentes

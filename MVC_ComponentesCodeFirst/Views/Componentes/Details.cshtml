@@ -1,0 +1,67 @@
+﻿@model MVC_ComponentesCodeFirst.Models.Componentes.ComponenteDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+<div>
+    <h4>Componente</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.NumeroDeSerie)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.NumeroDeSerie)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Calor)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Calor)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Megas)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Megas)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Cores)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Cores)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Coste)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Coste)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Ordenador)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Ordenador.Descripcion)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,23 @@
+2023-08-21 10:58:14.0238 INFO Se va a mostrar la lista de ordenadores
+2023-08-21 10:58:14.0536 INFO Devolviendo la lista de ordenadores
+2023-08-21 10:58:17.6253 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:58:17.6253 INFO Devolviendo la lista de componentes
+2023-08-21 10:58:20.8481 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-21 10:58:20.8481 INFO Devolviendo el componente con id = 1
+2023-08-21 10:58:20.9394 INFO Devolviendo la lista de ordenadores
+2023-08-21 10:58:25.2303 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:58:25.2303 INFO Devolviendo la lista de componentes
+2023-08-21 10:58:27.0726 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-21 10:58:27.0726 INFO Devolviendo el componente con id = 1
+2023-08-21 10:58:27.0726 INFO Devolviendo la lista de ordenadores
+2023-08-21 10:58:29.1783 INFO Se va a editar el componente con id = 1
+2023-08-21 10:58:29.1783 INFO Componente con id = 1 actualizado
+2023-08-21 10:58:29.3061 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:58:29.3061 INFO Devolviendo la lista de componentes
+2023-08-21 10:58:30.4627 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-21 10:58:30.4627 INFO Devolviendo el componente con id = 1
+2023-08-21 10:58:30.4627 INFO Devolviendo la lista de ordenadores
+2023-08-21 10:58:32.3552 INFO Se va a editar el componente con id = 1
+2023-08-21 10:58:32.3552 INFO Componente con id = 1 actualizado
+2023-08-21 10:58:32.3744 INFO Se va a mostrar la lista de componentes
+2023-08-21 10:58:32.3744 INFO Devolviendo la lista de componentes

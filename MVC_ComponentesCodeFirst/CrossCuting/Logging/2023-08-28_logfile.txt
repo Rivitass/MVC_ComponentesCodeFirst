@@ -1,0 +1,178 @@
+2023-08-28 08:30:53.7521 INFO Se va a mostrar la lista de componentes
+2023-08-28 08:30:53.8037 INFO Devolviendo la lista de componentes
+2023-08-28 08:30:54.1371 INFO Se va a mostrar la lista de componentes
+2023-08-28 08:30:54.1371 INFO Devolviendo la lista de componentes
+2023-08-28 08:31:02.9658 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 08:31:02.9658 INFO Devolviendo la lista de ordenadores
+2023-08-28 08:31:07.2534 INFO Se va a mostrar la lista de pedidos
+2023-08-28 08:31:07.2534 INFO Devolviendo la lista de pedidos
+2023-08-28 08:31:08.8621 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 08:31:08.8621 INFO Devolviendo la lista de ordenadores
+2023-08-28 08:31:10.5675 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-08-28 08:31:10.5675 INFO Devolviendo el ordenador con id = 3
+2023-08-28 08:31:18.3356 INFO Se va a mostrar la lista de pedidos
+2023-08-28 08:31:18.3356 INFO Devolviendo la lista de pedidos
+2023-08-28 08:31:19.6207 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-28 08:31:19.6207 INFO Devolviendo el pedido con id = 1
+2023-08-28 08:31:22.9806 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-08-28 08:31:22.9806 INFO Devolviendo el ordenador con id = 3
+2023-08-28 08:31:24.4130 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-28 08:31:24.4130 INFO Devolviendo el componente con id = 1
+2023-08-28 08:31:24.4458 INFO Devolviendo la lista de ordenadores
+2023-08-28 08:31:26.6137 INFO Se va a mostrar la lista de componentes
+2023-08-28 08:31:26.6137 INFO Devolviendo la lista de componentes
+2023-08-28 11:07:06.2506 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:07:06.2841 INFO Devolviendo la lista de componentes
+2023-08-28 11:07:09.1110 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 11:07:09.1110 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:07:10.7147 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:07:10.7147 INFO Devolviendo la lista de componentes
+2023-08-28 11:07:17.3348 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-28 11:07:17.3348 INFO Devolviendo el componente con id = 1
+2023-08-28 11:07:19.2795 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:07:19.2795 INFO Devolviendo la lista de componentes
+2023-08-28 11:07:20.7190 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-28 11:07:20.7190 INFO Devolviendo el componente con id = 1
+2023-08-28 11:07:20.7190 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:07:21.9615 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:07:21.9615 INFO Devolviendo la lista de componentes
+2023-08-28 11:15:18.5160 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:15:18.5497 INFO Devolviendo la lista de componentes
+2023-08-28 11:24:07.8303 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:24:07.8463 INFO Devolviendo la lista de componentes
+2023-08-28 11:24:10.0404 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 11:24:10.0404 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:24:11.0914 INFO Se va a mostrar la lista de pedidos
+2023-08-28 11:24:11.0914 INFO Devolviendo la lista de pedidos
+2023-08-28 11:24:11.9667 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 11:24:11.9667 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:24:12.4713 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:24:12.4713 INFO Devolviendo la lista de componentes
+2023-08-28 11:24:13.6486 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-28 11:24:13.6486 INFO Devolviendo el componente con id = 1
+2023-08-28 11:24:13.6930 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:24:15.6142 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 11:24:15.6142 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:24:16.7324 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-08-28 11:24:16.7354 INFO Devolviendo el ordenador con id = 3
+2023-08-28 11:24:18.7166 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-28 11:24:18.7166 INFO Devolviendo el componente con id = 1
+2023-08-28 11:24:19.6660 INFO Se va a mostrar la lista de pedidos
+2023-08-28 11:24:19.6660 INFO Devolviendo la lista de pedidos
+2023-08-28 11:24:20.4604 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-28 11:24:20.4604 INFO Devolviendo el pedido con id = 1
+2023-08-28 11:24:21.3114 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-08-28 11:24:21.3114 INFO Devolviendo el ordenador con id = 3
+2023-08-28 11:25:03.6576 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 11:25:03.6972 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:25:05.6455 INFO Se va a mostrar la lista de pedidos
+2023-08-28 11:25:05.6455 INFO Devolviendo la lista de pedidos
+2023-08-28 11:25:08.3414 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-28 11:25:08.3414 INFO Devolviendo el pedido con id = 1
+2023-08-28 11:25:09.7181 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-08-28 11:25:09.7199 INFO Devolviendo el ordenador con id = 3
+2023-08-28 11:25:15.3339 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:25:15.3339 INFO Devolviendo la lista de componentes
+2023-08-28 11:25:41.6118 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:25:41.6118 INFO Devolviendo la lista de componentes
+2023-08-28 11:25:48.3960 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:25:48.3960 INFO Devolviendo la lista de componentes
+2023-08-28 11:25:54.8183 INFO Se va a mostrar la lista de componentes
+2023-08-28 11:25:54.8183 INFO Devolviendo la lista de componentes
+2023-08-28 11:25:59.3644 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 11:25:59.3644 INFO Devolviendo la lista de ordenadores
+2023-08-28 11:26:00.2112 INFO Se va a mostrar la lista de pedidos
+2023-08-28 11:26:00.2112 INFO Devolviendo la lista de pedidos
+2023-08-28 12:21:26.6721 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:21:26.6886 INFO Devolviendo la lista de componentes
+2023-08-28 12:21:29.2065 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-28 12:21:29.2065 INFO Devolviendo el componente con id = 1
+2023-08-28 12:21:30.3311 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:21:30.3311 INFO Devolviendo la lista de componentes
+2023-08-28 12:21:30.9607 INFO Se va a mostrar la vista para editar el componente con id = 1
+2023-08-28 12:21:30.9607 INFO Devolviendo el componente con id = 1
+2023-08-28 12:21:30.9607 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:21:32.8785 INFO Se va a editar el componente con id = 1
+2023-08-28 12:21:32.8785 INFO Componente con id = 1 actualizado
+2023-08-28 12:21:32.9947 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:21:32.9947 INFO Devolviendo la lista de componentes
+2023-08-28 12:21:33.8689 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:21:33.8689 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:21:34.6364 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:21:34.6364 INFO Devolviendo la lista de pedidos
+2023-08-28 12:21:35.7769 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-28 12:21:35.7769 INFO Devolviendo el pedido con id = 1
+2023-08-28 12:21:41.0324 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:21:41.0324 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:21:42.6892 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:21:42.6892 INFO Devolviendo la lista de componentes
+2023-08-28 12:21:54.9732 INFO Se va a mostrar la vista para crear un componente
+2023-08-28 12:21:54.9732 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:21:56.8898 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:21:56.8898 INFO Devolviendo la lista de componentes
+2023-08-28 12:21:58.0343 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:21:58.0343 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:21:58.5766 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:21:58.5766 INFO Devolviendo la lista de pedidos
+2023-08-28 12:21:59.6340 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:21:59.6340 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:21.0675 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:21.0965 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:23.0589 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:23.0589 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:23.9268 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:32:23.9268 INFO Devolviendo la lista de pedidos
+2023-08-28 12:32:24.6520 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:24.6520 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:25.1372 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:25.1372 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:25.6902 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:25.6902 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:26.1763 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:32:26.1763 INFO Devolviendo la lista de pedidos
+2023-08-28 12:32:27.0001 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:27.0001 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:27.5128 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:32:27.5128 INFO Devolviendo la lista de pedidos
+2023-08-28 12:32:27.9208 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:27.9208 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:28.4976 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:28.4976 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:29.2823 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:29.2823 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:29.7537 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:32:29.7537 INFO Devolviendo la lista de pedidos
+2023-08-28 12:32:30.5530 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:30.5530 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:31.0351 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:31.0351 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:31.5058 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:31.5058 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:31.9375 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:32:31.9375 INFO Devolviendo la lista de pedidos
+2023-08-28 12:32:35.1206 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:35.1206 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:37.0642 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:37.0642 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:38.4256 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:38.4256 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:39.2404 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:39.2404 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:39.8967 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:39.8967 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:40.6581 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:32:40.6581 INFO Devolviendo la lista de pedidos
+2023-08-28 12:32:41.0816 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:41.0816 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:42.8184 INFO Se va a mostrar la lista de pedidos
+2023-08-28 12:32:42.8184 INFO Devolviendo la lista de pedidos
+2023-08-28 12:32:44.7533 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-28 12:32:44.7533 INFO Devolviendo el pedido con id = 1
+2023-08-28 12:32:47.3926 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:47.3926 INFO Devolviendo la lista de componentes
+2023-08-28 12:32:47.9127 INFO Se va a mostrar la lista de ordenadores
+2023-08-28 12:32:47.9127 INFO Devolviendo la lista de ordenadores
+2023-08-28 12:32:48.8486 INFO Se va a mostrar los detalles del ordenador con id = 3
+2023-08-28 12:32:48.8486 INFO Devolviendo el ordenador con id = 3
+2023-08-28 12:32:57.3141 INFO Se va a mostrar la lista de componentes
+2023-08-28 12:32:57.3141 INFO Devolviendo la lista de componentes

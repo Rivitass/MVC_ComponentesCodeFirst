@@ -1,0 +1,8 @@
+﻿@model IEnumerable<MVC_ComponentesCodeFirst.Models.Ordenadores.OrdenadorDto>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        @await Component.InvokeAsync("CardOrdenador", new { ordenador = item })
+    }
+</div>

@@ -1,0 +1,20 @@
+﻿@model IEnumerable<MVC_ComponentesCodeFirst.Models.Componentes.ComponenteDto>
+
+@{
+    ViewData["Title"] = "Componentes";
+}
+
+<div class="row">
+    <div class="col-6">
+        <h1>Componentes</h1>
+    </div>
+
+    <div class="col-6 text-end">
+        <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i> Create New</a>
+    </div>
+</div>
+
+<br/>
+
+@await Component.InvokeAsync("ListadoComponentes", new { componentes = Model })
+

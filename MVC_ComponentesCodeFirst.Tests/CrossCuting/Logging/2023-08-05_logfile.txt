@@ -1,0 +1,20 @@
+2023-08-05 12:29:38.0186 INFO Se va a crear un componente
+2023-08-05 12:29:38.0503 INFO Se va a mostrar la lista de componentes
+2023-08-05 12:29:38.0781 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-05 12:29:38.0781 INFO Se va a eliminar el componente con id = 2
+2023-08-05 12:29:38.0781 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-05 12:29:38.0781 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-05 12:29:38.0818 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-05 12:29:38.0818 INFO Se va a editar el componente con id = 1
+2023-08-05 12:29:38.0818 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-05 12:29:38.0818 INFO Se va a mostrar la lista de componentes
+2023-08-05 12:29:38.0818 INFO Se va a crear un componente
+2023-08-05 12:29:38.0818 INFO Se va a mostrar la lista de componentes
+2023-08-05 12:29:38.0818 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-05 12:29:38.0818 INFO Se va a eliminar el componente con id = 2
+2023-08-05 12:29:38.0818 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-05 12:29:38.0818 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-05 12:29:38.0967 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-05 12:29:38.0967 INFO Se va a editar el componente con id = 1
+2023-08-05 12:29:38.0967 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-05 12:29:38.1244 INFO Se va a mostrar la lista de componentes

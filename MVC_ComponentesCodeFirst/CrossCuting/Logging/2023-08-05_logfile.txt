@@ -1,0 +1,26 @@
+2023-08-05 11:54:46.2273 INFO Se va a mostrar la lista de componentes
+2023-08-05 11:54:46.2561 INFO Devolviendo la lista de componentes
+2023-08-05 11:54:49.6130 INFO Se va a mostrar la vista para editar un componente
+2023-08-05 11:54:49.6130 INFO Devolviendo el componente con id = 5
+2023-08-05 11:54:51.4898 INFO Se va a editar un componente
+2023-08-05 11:54:51.4898 INFO Componente con id = 5 actualizado
+2023-08-05 11:54:51.6428 INFO Se va a mostrar la lista de componentes
+2023-08-05 11:54:51.6428 INFO Devolviendo la lista de componentes
+2023-08-05 12:30:11.8851 INFO Se va a mostrar la lista de componentes
+2023-08-05 12:30:11.9298 INFO Devolviendo la lista de componentes
+2023-08-05 12:30:14.8664 INFO Se va a mostrar la vista para editar el componente con id = 6
+2023-08-05 12:30:14.8664 INFO Devolviendo el componente con id = 6
+2023-08-05 12:30:16.4343 INFO Se va a mostrar la lista de componentes
+2023-08-05 12:30:16.4343 INFO Devolviendo la lista de componentes
+2023-08-05 12:30:18.2892 INFO Se va a mostrar los detalles del componente con id = 8
+2023-08-05 12:30:18.2892 INFO Devolviendo el componente con id = 8
+2023-08-05 12:30:19.5613 INFO Se va a mostrar la vista para editar el componente con id = 8
+2023-08-05 12:30:19.5613 INFO Devolviendo el componente con id = 8
+2023-08-05 12:30:20.5741 INFO Se va a editar el componente con id = 8
+2023-08-05 12:30:20.5741 INFO Componente con id = 8 actualizado
+2023-08-05 12:30:20.7312 INFO Se va a mostrar la lista de componentes
+2023-08-05 12:30:20.7312 INFO Devolviendo la lista de componentes
+2023-08-05 12:30:21.7059 INFO Se va a mostrar la vista para eliminar el componente con id = 8
+2023-08-05 12:30:21.7059 INFO Devolviendo el componente con id = 8
+2023-08-05 12:30:22.5286 INFO Se va a mostrar la lista de componentes
+2023-08-05 12:30:22.5286 INFO Devolviendo la lista de componentes

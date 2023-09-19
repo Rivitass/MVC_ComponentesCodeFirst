@@ -1,0 +1,21 @@
+﻿@inject MVC_ComponentesCodeFirst.Services.FormattingService Format
+@model MVC_ComponentesCodeFirst.Models.Pedidos.PedidoDto
+
+<div class="card text-center col-lg-4 p-0 mb-3">
+    <div class="card-header">
+        <i class="bi bi-receipt-cutoff"></i>
+    </div>
+
+    <div class="card-body">
+        <h5 class="card-title">@Html.DisplayFor(modelItem => modelItem.Descripcion)</h5>
+        <p class="card-text">@Format.AsReadableDate(Model.Fecha)</p>
+    </div>
+    <div class="card-footer text-body-secondary">
+        Coste: @Html.DisplayFor(modelItem => modelItem.Coste) €
+    </div>
+    <div class="card-footer">
+        <a asp-action="Edit" asp-controller="Pedidos" asp-route-id="@Model.Id" class="btn btn-light"><i class="bi bi-pencil-fill"></i> Edit</a>
+        <a asp-action="Details" asp-controller="Pedidos" asp-route-id="@Model.Id" class="btn btn-light"><i class="bi bi-eye-fill"></i> Details</a>
+        <a asp-action="Delete" asp-controller="Pedidos" asp-route-id="@Model.Id" class="btn btn-light"><i class="bi bi-trash-fill"></i> Delete</a>
+    </div>
+</div>

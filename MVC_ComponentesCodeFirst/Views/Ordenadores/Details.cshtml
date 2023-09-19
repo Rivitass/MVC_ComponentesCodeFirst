@@ -1,0 +1,42 @@
+﻿@model MVC_ComponentesCodeFirst.Models.Ordenadores.OrdenadorDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Ordenador</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-md-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class = "col-md-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Coste)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Coste) €
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Pedido)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Pedido.Descripcion)
+        </dd>
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Componentes)
+        </dt>
+        <dd class="col-md-10">
+            @await Component.InvokeAsync("ListadoComponentes", new { componentes = Model.Componentes })
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

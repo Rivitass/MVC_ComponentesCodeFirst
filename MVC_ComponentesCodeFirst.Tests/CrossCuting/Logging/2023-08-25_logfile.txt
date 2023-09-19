@@ -1,0 +1,235 @@
+2023-08-25 15:01:29.1476 INFO Se va a crear un componente
+2023-08-25 15:01:29.1881 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:01:29.2166 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:01:29.2166 INFO Se va a eliminar el componente con id = 2
+2023-08-25 15:01:29.2166 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:01:29.2281 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:01:29.2281 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:01:29.2281 INFO Se va a editar el componente con id = 1
+2023-08-25 15:01:29.2393 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:01:29.2393 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:01:29.2393 INFO Se va a crear un ordenador
+2023-08-25 15:01:29.2393 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:01:29.2777 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:01:29.2777 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:01:29.2878 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:01:29.3421 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:20:33.8791 INFO Se va a crear un componente
+2023-08-25 15:20:33.9145 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:20:33.9343 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:20:33.9343 INFO Se va a eliminar el componente con id = 2
+2023-08-25 15:20:33.9343 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:20:33.9343 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:20:33.9343 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:20:33.9343 INFO Se va a editar el componente con id = 1
+2023-08-25 15:20:33.9343 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:20:33.9416 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:20:33.9416 INFO Se va a crear un ordenador
+2023-08-25 15:20:33.9416 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:20:33.9594 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:20:33.9594 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:20:33.9594 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:20:33.9906 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:22:44.3803 INFO Se va a crear un componente
+2023-08-25 15:22:44.4212 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:22:44.4427 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:22:44.4427 INFO Se va a eliminar el componente con id = 2
+2023-08-25 15:22:44.4427 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:22:44.4427 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:22:44.4427 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:22:44.4427 INFO Se va a editar el componente con id = 1
+2023-08-25 15:22:44.4427 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:22:44.4427 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:22:44.4427 INFO Se va a crear un ordenador
+2023-08-25 15:22:44.4427 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:22:44.4589 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:22:44.4745 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:22:44.4745 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:22:44.5038 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:30:35.8399 INFO Se va a crear un componente
+2023-08-25 15:30:35.8749 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:30:35.8978 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:30:35.8978 INFO Se va a eliminar el componente con id = 2
+2023-08-25 15:30:35.8978 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:30:35.8978 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:30:35.8978 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:30:35.8978 INFO Se va a editar el componente con id = 1
+2023-08-25 15:30:35.8978 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:30:35.8978 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:30:35.8978 INFO Se va a crear un ordenador
+2023-08-25 15:30:35.8978 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:30:35.9129 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:30:35.9129 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 15:30:35.9129 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:30:35.9129 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:30:35.9129 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:30:35.9129 INFO Se va a editar el ordenador con id = 1
+2023-08-25 15:30:35.9678 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:59:45.6610 INFO Se va a crear un componente
+2023-08-25 15:59:45.6869 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:59:45.7097 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:59:45.7097 INFO Se va a eliminar el componente con id = 2
+2023-08-25 15:59:45.7097 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 15:59:45.7097 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:59:45.7097 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:59:45.7097 INFO Se va a editar el componente con id = 1
+2023-08-25 15:59:45.7097 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 15:59:45.7097 INFO Se va a mostrar la lista de componentes
+2023-08-25 15:59:45.7097 INFO Se va a crear un ordenador
+2023-08-25 15:59:45.7097 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 15:59:45.7263 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:59:45.7263 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 15:59:45.7263 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:59:45.7263 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:59:45.7263 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 15:59:45.7263 INFO Se va a editar el ordenador con id = 1
+2023-08-25 15:59:45.7793 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:04:06.7241 INFO Se va a crear un componente
+2023-08-25 16:04:06.7824 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:04:06.8152 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:04:06.8168 INFO Se va a eliminar el componente con id = 2
+2023-08-25 16:04:06.8168 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:04:06.8168 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:04:06.8168 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:04:06.8330 INFO Se va a editar el componente con id = 1
+2023-08-25 16:04:06.8330 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:04:06.8330 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:04:06.8330 INFO Se va a crear un ordenador
+2023-08-25 16:04:06.8330 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:04:06.8330 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:04:06.8330 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 16:04:06.8330 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:04:06.8492 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:04:42.6075 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:06:36.7131 INFO Se va a editar el ordenador con id = 1
+2023-08-25 16:08:35.0272 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:13:29.0513 INFO Se va a crear un componente
+2023-08-25 16:13:29.0886 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:13:29.1119 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:13:29.1119 INFO Se va a eliminar el componente con id = 2
+2023-08-25 16:13:29.1119 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:13:29.1155 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:13:29.1155 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:13:29.1155 INFO Se va a editar el componente con id = 1
+2023-08-25 16:13:29.1155 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:13:29.1155 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:13:29.1155 INFO Se va a crear un ordenador
+2023-08-25 16:13:29.1155 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:13:29.1293 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:13:29.1293 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 16:13:29.1293 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:13:29.1293 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:13:29.1293 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:13:29.1293 INFO Se va a editar el ordenador con id = 1
+2023-08-25 16:13:29.1293 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:13:29.1677 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:35:24.6446 INFO Se va a crear un componente
+2023-08-25 16:35:24.6673 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:35:24.6876 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:35:24.6876 INFO Se va a eliminar el componente con id = 2
+2023-08-25 16:35:24.6876 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:35:24.6876 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a editar el componente con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:35:24.6918 INFO Se va a crear un ordenador
+2023-08-25 16:35:24.6918 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:35:24.6918 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:35:24.6918 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:35:24.7077 INFO Se va a editar el ordenador con id = 1
+2023-08-25 16:35:24.7077 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:35:24.7352 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:41:31.4433 INFO Se va a crear un componente
+2023-08-25 16:41:31.4607 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:41:31.4921 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:41:31.4921 INFO Se va a eliminar el componente con id = 2
+2023-08-25 16:41:31.4921 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:41:31.4921 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:41:31.4921 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:41:31.4921 INFO Se va a editar el componente con id = 1
+2023-08-25 16:41:31.4921 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:41:31.4921 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:41:31.4921 INFO Se va a crear un ordenador
+2023-08-25 16:41:31.5045 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:41:31.5045 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:41:31.5045 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 16:41:31.5045 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:41:31.5045 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:41:31.5045 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:41:31.5045 INFO Se va a editar el ordenador con id = 1
+2023-08-25 16:41:31.5045 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:41:31.5433 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:41:31.5433 INFO Se va a crear un pedido
+2023-08-25 16:41:31.5433 INFO Se va a mostrar la lista de pedidos
+2023-08-25 16:41:31.5433 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:41:31.5530 INFO Se va a eliminar el pedido con id = 1
+2023-08-25 16:41:31.5530 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:41:31.5530 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:41:31.5530 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:41:31.5530 INFO Se va a editar el pedido con id = 1
+2023-08-25 16:41:31.5530 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:41:31.5530 INFO Se va a mostrar la lista de pedidos
+2023-08-25 16:43:28.2858 INFO Se va a crear un componente
+2023-08-25 16:43:28.3263 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:43:28.3607 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:43:28.3607 INFO Se va a eliminar el componente con id = 2
+2023-08-25 16:43:28.3639 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:43:28.3639 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:43:28.3639 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:43:28.3639 INFO Se va a editar el componente con id = 1
+2023-08-25 16:43:28.3639 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:43:28.3639 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:43:28.3842 INFO Se va a crear un ordenador
+2023-08-25 16:43:28.3842 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:43:28.3842 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:43:28.3959 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 16:43:28.3959 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:43:28.3959 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:43:28.3959 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:43:28.3959 INFO Se va a editar el ordenador con id = 1
+2023-08-25 16:43:28.3959 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:43:28.4605 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:43:28.4605 INFO Se va a crear un pedido
+2023-08-25 16:43:28.4605 INFO Se va a mostrar la lista de pedidos
+2023-08-25 16:43:28.4605 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:43:28.4731 INFO Se va a eliminar el pedido con id = 1
+2023-08-25 16:43:28.4731 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:43:28.4731 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:43:28.4731 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:43:28.4731 INFO Se va a editar el pedido con id = 1
+2023-08-25 16:43:28.4731 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:43:28.4731 INFO Se va a mostrar la lista de pedidos
+2023-08-25 16:44:55.7727 INFO Se va a crear un componente
+2023-08-25 16:44:55.7869 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:44:55.8256 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:44:55.8256 INFO Se va a eliminar el componente con id = 2
+2023-08-25 16:44:55.8256 INFO Se va a mostrar los detalles del componente con id = 2
+2023-08-25 16:44:55.8256 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:44:55.8256 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:44:55.8373 INFO Se va a editar el componente con id = 1
+2023-08-25 16:44:55.8373 INFO Se va a mostrar los detalles del componente con id = 1
+2023-08-25 16:44:55.8373 INFO Se va a mostrar la lista de componentes
+2023-08-25 16:44:55.8373 INFO Se va a crear un ordenador
+2023-08-25 16:44:55.8373 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:44:55.8525 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:44:55.8525 INFO Se va a eliminar el ordenador con id = 1
+2023-08-25 16:44:55.8525 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:44:55.8525 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:44:55.8525 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:44:55.8525 INFO Se va a editar el ordenador con id = 1
+2023-08-25 16:44:55.8525 INFO Se va a mostrar los detalles del ordenador con id = 1
+2023-08-25 16:44:55.8951 INFO Se va a mostrar la lista de ordenadores
+2023-08-25 16:44:55.8951 INFO Se va a crear un pedido
+2023-08-25 16:44:55.8951 INFO Se va a mostrar la lista de pedidos
+2023-08-25 16:44:55.8951 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:44:55.8951 INFO Se va a eliminar el pedido con id = 1
+2023-08-25 16:44:55.8951 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:44:55.8951 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:44:55.8951 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:44:55.8951 INFO Se va a editar el pedido con id = 1
+2023-08-25 16:44:55.8951 INFO Se va a mostrar los detalles del pedido con id = 1
+2023-08-25 16:44:55.9111 INFO Se va a mostrar la lista de pedidos
