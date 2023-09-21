@@ -6,7 +6,7 @@ using MVC_ComponentesCodeFirst.Models.Ordenadores;
 using MVC_ComponentesCodeFirst.Services.Ordenadores;
 using MVC_ComponentesCodeFirst.Services.Pedidos;
 
-namespace MVC_ComponentesCodeFirst.Tests.TestsCodeFirst;
+namespace MVC_ComponentesCodeFirst.Tests.TestsCodeFirst.Views;
 
 [TestClass]
 public class UnitTestOrdenador

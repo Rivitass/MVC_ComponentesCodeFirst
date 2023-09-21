@@ -5,7 +5,7 @@ using MVC_ComponentesCodeFirst.CrossCuting.Logging;
 using MVC_ComponentesCodeFirst.Models.Pedidos;
 using MVC_ComponentesCodeFirst.Services.Pedidos;
 
-namespace MVC_ComponentesCodeFirst.Tests.TestsCodeFirst;
+namespace MVC_ComponentesCodeFirst.Tests.TestsCodeFirst.Views;
 
 [TestClass]
 public class UnitTestPedido
